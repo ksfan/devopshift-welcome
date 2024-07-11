@@ -4,7 +4,7 @@ image:
   tag: 1.19.1
   pullPolicy: IfNotPresent
 
-details_wrong:
+details:
   image: docker.io/istio/examples-bookinfo-details-v1
   myadmocsreplicas: 1
 
